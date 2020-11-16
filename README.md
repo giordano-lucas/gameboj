@@ -1,5 +1,5 @@
- Gameboj : an emulator for Gameboy in Java
-####
+Gameboj : an emulator for Gameboy in Java
+======
 
 This project aims at producing a fully functional and documented emulator of Gameboy (not the color version).
 
